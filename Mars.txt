@@ -1,1 +1,7 @@
 Mars is cold! 
+Now I am changing the file. Lets see if GIT is going to follow.
+Hello again!  
+to see the differnece between files, use 'git diff' command. 
+'git status' shows what git is doing. 
+'git log' tells you who has done what to the file. 
+
